@@ -32,4 +32,4 @@ Lizs-MacBook-Pro:bamazon Liz$ node bamazonCustomer.js
 
 This allows the user to view the store items: item IDs, descriptions, department, and price. Type in the ID number to choose a product and hit 'enter'. The database updates and tells you 'you got it' if the transaction goes through.
 
-Bamazon Demo LINK
+![Bamazon Demo](https://github.com/lizharris90210/bamazon/blob/master/Bamazon-Screen-Record.mov)
